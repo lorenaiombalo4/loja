@@ -8,6 +8,10 @@
     --cor-da-letra:rgb(243, 241, 241);
 }
 
-body{
+body{/*seletor body*/
     background-color: var(--cor-de-fundo);
+}
+
+h1{
+    background-color: rgb(241, 0, 209);
 }
